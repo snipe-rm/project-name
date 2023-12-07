@@ -1,3 +1,2 @@
 # 自分の名前 PORTFOLIO　SITE
-# PORTFOLI
-## プロフィール 
+# 初めてのGItの練習ファイル
